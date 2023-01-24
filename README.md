@@ -16,7 +16,7 @@
 <!-- <img align="centre" alt="GIF" src="https://github.com/CRYPTOcoderAS/CRYPTOcoderAS/blob/trial/download.gif?raw=true" width="300" height="300" />
 <br> -->
 
--Motivating to Innovate Research. Inclined towards Management of batteries health
+-Motivated to Innovate Research. Inclined towards Management of batteries health
 <!-- 
 ### Connect with me:
 
